@@ -1,5 +1,5 @@
 if ARGV.nil? || ARGV.size == 0
-  puts "Usage: ruby XoomPayPal.rb <int number number>"
+  puts "Usage: ruby XoomPayPal.rb <int number>"
   exit
 end
 
